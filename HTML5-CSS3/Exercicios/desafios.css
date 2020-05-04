@@ -39,10 +39,11 @@ a:hover {
 @media (max-width: 800px) {
     body {
         font-size: 0.98em;
+        width: 100%;
     }
     main {
         margin-top: 30px;
         padding: 8px;
-        width: 430px;
+        width: 80%;
     }
 }
